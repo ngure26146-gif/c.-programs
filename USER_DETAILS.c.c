@@ -1,6 +1,6 @@
 //simple c program 
 /*
-NAMME: NGURRE MARK MUCHIRI
+NAME: NGURE MARK MUCHIRI
 REGNO: CT100/G/26146/25
 DESCRIPTION: BASIC INPUT AND OUTPUT IN C PROGRAMING
 */
@@ -25,4 +25,5 @@ int main(){
  printf("weight = %dkg", weight);
  
  return 0;
+
 }
