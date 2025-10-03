@@ -6,7 +6,7 @@ DESCRIPTION: PROMPT AGE AND INCOME
 */
 
 #include <stdio.h>
- int main(){
+ int main() {
      int age;
 	 float income;
 	 
@@ -25,4 +25,5 @@ DESCRIPTION: PROMPT AGE AND INCOME
 		  }	 
 	 return 0;
 	 
+
 	 }
