@@ -6,7 +6,7 @@ DESCRIPTION: DISPLAY OF COURSE UNITS
 */
 
 #include<stdio.h>
-int main(){
+int main() {
 	printf("COURSE UNITS\n");
     printf("1.Analogue Electronics\n"); 
     printf("2.Computer Systems and Organization\n"); 
@@ -18,4 +18,5 @@ int main(){
     printf("8.Introduction to Programming and Algorithms"); 
     
     return 0;
+
     }
