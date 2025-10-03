@@ -22,11 +22,11 @@ int main() {
 	
 	//calculate the volume 
 	volume = pi * radius * radius * height;
-	printf("volume = %.4fcm³\n", volume);
+	printf("volume = %.4fcmÂ³\n", volume);
 	
 	//calculate the surface area
 	surface_area = 2 * pi * radius * radius + 2 * pi * radius * radius * height;
-	printf("surface_area = %.4fcm²\n", surface_area);
+	printf("surface_area = %.4fcmÂ²\n", surface_area);
 	
 	return 0;
 	}
